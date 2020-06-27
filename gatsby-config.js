@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Hyunsik_Aeom Notepad`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Hyunsik Aeom `,
+      summary: `/`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://aeomhs-blog.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      github: `aeomhs`,
     },
   },
   plugins: [
