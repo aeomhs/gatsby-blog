@@ -2,6 +2,7 @@
 title: 블로그 정착기
 date: "2020-06-28T20:45:00.000Z"
 description: 어떻게 블로그 포스팅을 해야할까? 내가 바라는 나의 블로그는 어떤 글들로 만들 수 있을까?
+publish: true
 ---
 
 > About my story.
